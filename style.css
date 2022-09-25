@@ -1,0 +1,17 @@
+
+table tbody tr{
+    background-color: whitesmoke;
+
+}
+table td{
+    padding: 30px;
+    align-content: center;
+    
+}
+th{
+    justify-content: center;
+}
+#char{
+    width: 10px;
+padding: 30px;
+}
